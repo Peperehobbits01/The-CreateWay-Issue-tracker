@@ -24,7 +24,7 @@
 
 - Fixed clouds rendering even when there off
 - Fixed can't lead entities
-- Reduced the amount of villager caravans that can spawn in the world
+- Reduced the amount of pillager caravans that can spawn in the world
 - Removed the recipe book
 
 # Removed :

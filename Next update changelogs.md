@@ -12,4 +12,4 @@ Tweaked the Pause Menu to fix buttons overlying on each other due to different s
 
 # Known Issues :
 
-- Jupiter generating as an empty world
+- Jupiter generates as an empty world

@@ -2,6 +2,9 @@
 
 # Added :
 
+- Roughly Enough Items
+- Roughly Enough Professions
+
 # Updated :
 
 - FancyMenu from 3.9.0 to 3.9.1
@@ -21,12 +24,16 @@
 
 - Fixed clouds rendering even when there off
 - Fixed can't lead entities
+- Reduced the amount of villager caravans that can spawn in the world
+- Removed the recipe book
 
 # Removed :
 
 - Diagonal Windows
 - Diagonal Walls
 - Diagonal fences
+- Just Enough Book
+
 # Known Issues :
 
 - Jupiter generating as an empty world

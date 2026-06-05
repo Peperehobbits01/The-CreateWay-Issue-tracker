@@ -11,6 +11,7 @@
 - Fixed datapacks not being applied by default
 - Fixed a potential issue with ConnectedDimmensiosn when you use a rocket to go to space by putting the teleportation to the end higher.
 - Texture packs should now be properly applied by default
+- FuseTime of baby creepers is now 15 ticks instead of 5
 
 # Removed :
 

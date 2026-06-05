@@ -33,11 +33,11 @@ body:
     id: version
     attributes:
       label: Version
-      description: What version of the software are you running?
+      description: What version of the modpack are you running?
       options:
         - Stable = on the release pages of the modpack
-        - Beta = on the release pages marked as pre-release
-        - Dev = given to users on a sperate modpack page with dev at the ned of the name of the modpack
+        - Beta = on the release pages marked as beta/alpha
+        - Dev = given to users on a separated modpack page with dev at the ned of the name of the modpack
     validations:
       required: true
 

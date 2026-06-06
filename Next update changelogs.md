@@ -13,8 +13,8 @@
 
 - Tweaked sodium's default config to allow for better performance for lower-end hardware
 - Tweaked the pause menu again to fix issues related to GUI scaling
-- Updated version in bcc-common.toml (needs to be added in the .mrpack)
-- Experience orbs will no longer be shown in the bottom right corner of the screen when collecting them (in pickupnotifier-client.toml)
+- Updated version in bcc-common.toml
+- Experience orbs will no longer be shown in the bottom right corner of the screen when collecting them
 - Enabled hand drinking
 - Pillager caravans now spawn further away from the player
 - Tweaked settings of Journey Map to not show animals and mobs

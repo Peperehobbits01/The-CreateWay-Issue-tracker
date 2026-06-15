@@ -2,29 +2,28 @@
 
 # Added :
 
-- TrafficCraft
+- Spice of Life: Fabric Flavor
+- Desert Scourge
 
 # Updated :
 
-- Enhanced Boss Bars from 1.5 to 1.6
-- Blur+ from 6.2.0 to 6.3.0
-- Pillager Caravans from 2.1.1 to 3.0.0
+- Fabric loader from 0.19.2 to 0.19.3
+- Chat Heads from 0.15.1 to 0.15.2
+- Oh The Biomes We've Gone from 2.5.5 to 2.6.0
 
 # Changes :
 
-- Fixed an issue causing canteens to be unusable to drink water
-- Fixed Vanilla signs text is showing up broken due to incompatibility between amendments and the enhanced signs of Enhanced block entities!
-- Moved Mods button to settings
-- Replaced the Mods button in the pause menu by the request a feature button
-- Disabled enhanced chests because it was causing chests to not render when carried
-- Small consumption of hunger now happens when you rightclickharvest.
-- Remove tagtooltips from showing to make tooltips less cluttered (kiwi client)
+- Enabled SleepHunger so when you wake up, you have consumed food (from spice of life)
+- Reduced Maximum health gain to 500
+- Health gain per discovered food is now set to 1
+- Gained health is now reset when you die
 
 # Removed :
 
-- Saro's Road Signs (Both Saro's mods are replaced by TrafficCraft)
-- Saro's Road Blocks (fixes snow tries to generate in a shattered glacier causing massive lag)
+- WayGL (causing more issues than it solves)
+- Yuushya Townscape (not really the vibes of the modpack actually)
 
 # Known Issues :
 
 - The original flashback button is still there
+- Custom buttons shrink abnormaly when going from fullscreen to window mode

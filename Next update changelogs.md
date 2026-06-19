@@ -8,7 +8,7 @@
 - Entity Culling from 1.10.3 to 1.10.4
 - Not Enough Animations from 1.12.3 to 1.12.4
 - Veil from 4.2.0 to 4.2.1
-- Sawmill from 1.7.2 to 1.7.6 (needs to be updated on the server)
+- Sawmill from 1.7.2 to 1.7.6
 
 # Changes :
 

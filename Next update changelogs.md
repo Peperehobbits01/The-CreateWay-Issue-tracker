@@ -2,42 +2,64 @@
 
 # Added :
 
+- MoreJS
+- pv-addon-wisper
+- pv-addon-priority
+- Macaw's Stairs
+- Macaw's Doors
+- Macaw's Trapdoors
+- Remove Stardust Labs Intro Message
+- Miner's Enchant
+- Farmer's Cutting: Oh The Biomes We've Gone
+
 # Updated :
 
-- Particular from 1.5.3 to 1.5.5
-- Entity Culling from 1.10.3 to 1.10.4
-- Not Enough Animations from 1.12.3 to 1.12.4
-- Veil from 4.2.0 to 4.2.1
-- Sawmill from 1.7.2 to 1.7.6
+- Journey Map from 6.0.0-beta.85 to 6.0.0-beta.86
+- LambDynamicsLight from 4.8.9 to 4.8.10
+- EntityCulling from 1.10.4 to 1.10.5
+- Wavey Capes from 1.9.2 to 1.10.2
+- Reconnectible Chains from 2.2.1 to 2.2.2
+- c2me from 0.3.0+alpha.0.93 to 0.4.0+alpha.0.107
+- Macaw's Oh The Biomes We've Gone from 1.5 to 1.6
+- Sawmill from 1.7.6 to 1.7.7
+- Plasmo Voice from 2.1.10 to 2.1.13
+
+# Downgraded :
+
+- Steam 'n' rails from 0.3.0.alpha.2 to 0.2.1
 
 # Changes :
 
-- Disabled useless tooltip info for the average user (from better advanced tooltip)
-- Better Advancement UI is now back to 80% instead of 100%
-- Added ominous_bottles to the list of things that don't count in the milestones to gain hearts (spice of life)
-- Disabled Sky Aesthetics custom sky that is integrated in Stellaris because we have Stellar View installed
-- Enabled Entity Optimisations of BadOptimisations
-- Utilize vanilla moon for Stellar View
-- Disabled comestics screen keybind
-- You can no longer Carry On blocks and entities from Create: Power Grid
-- Field Guide is replaced by Jade
-- Changed the following range from vanilla to 64
-- Added extra entity names
-- Fixed. Visual Titles resource pack is not properly loading in
+- Duplicates of the dirt, dirt path, grass and coarse dirt slab have been removed
+- Wandering winemaker as been removed
+- Trying out new food no longer spawns particles
+- Reduced tooltip image size to 50 instead of 80
+- Removed placeable tooltip info
+- Removed sack
+- Removed ability to disenchant a golden apple
+- Sticks and blaze rods can no longer be placed
+- Books can now be placed vertically or horizontally
+- Removed zombie horse conversion
+- Removed slimmed effect and throwable slime balls
+- Duplicates of copper nuggets are no longer a thing
+- Fixed items of Macaw's Oh The Biomes We've Gone mod show up broken in inventory, REI, and creative tab
+- Connected chains can no longer be picked up
+- Jade popups will be hidden when an advancement plaque shows up
+- Switched back to pages for advancement tabs
+- Tweaked config of sound physics remastered
+- No longer show tooltips related to HT's Tree Chop mod
+- Removed shopping indicator
+- Trees leaves now decay using HT's Tree Chop feature
+- Moved back the backpack tank overlay close to the hotbar as the setting did not carry over from switching mod loaders
 
 # Removed :
 
-- Controlify
-- Chunky
-- Chunks fade in
-- BetterF3 (just need to remove it from export)
-- Magnum Torch
-- Ocean Lily Pad Village
-- Gliders
-- Farsighted Mobs
-- Desert Scouge
+- Accelerated Decay
 
 # Known Issues :
 
-- Custom buttons shrink abnormaly when going from fullscreen to window mode
-- Synchronization issue with cables changing colors from Create: power grid
+- Custom buttons shrink abnormally when going from fullscreen to window mode
+- Synchronization issue with cables changing colors from Create: power grid (issue as been reported and resolved for next update)
+- Some recipes using create objects are not showing in the REI gui (From REI itself, already reported by another user, maybe make a fix with the CreateWay Mod ?)
+- Oil is in duplicates
+- Verify that tough as nails ice cream is not no longer applying effects because of spice of life

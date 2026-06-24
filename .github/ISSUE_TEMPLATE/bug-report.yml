@@ -14,9 +14,19 @@ body:
     id: what-happened
     attributes:
       label: What happened?
-      description: Also tell us, what did you expect to happen?
-      placeholder: Tell us what you see!
+      description: What did you saw, what is the issue?
+      placeholder: Tell us what you saw!
       value: "A bug happened!"
+    validations:
+      required: true
+
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What did you expected?
+      description: What did you expect to happen?
+      placeholder: Tell us what you saw!
+      value: "I expected that it would do that but the other thing happend."
     validations:
       required: true
 
@@ -25,7 +35,10 @@ body:
     attributes:
       label: Reproduction
       description: You must provide a way to reproduce the problem.
-      placeholder: Repo link or code
+      placeholder: "1. You do this
+                    2. Then you do that
+                    3. etc
+                    4. Then the bug happend"
     validations:
       required: true
 
@@ -35,9 +48,9 @@ body:
       label: Version
       description: What version of the modpack are you running?
       options:
-        - Stable = on the release pages of the modpack
-        - Beta = on the release pages marked as beta/alpha
-        - Dev = given to users on a separated modpack page with dev at the ned of the name of the modpack
+        - Stable = on the release page of the modpack
+        - Beta = on the release page marked as beta/alpha
+        - Dev = special versions made only for beta testers
     validations:
       required: true
 

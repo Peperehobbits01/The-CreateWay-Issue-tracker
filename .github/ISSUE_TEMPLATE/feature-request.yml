@@ -13,8 +13,8 @@ body:
   - type: textarea
     id: feature
     attributes:
-      label: Feature?
-      description: Please describe the feature you are requesting in detail
+      label: What is your feature all about?
+      description: Please describe the feature you are requesting in detail!
       placeholder: describe....
     validations:
       required: true

@@ -61,5 +61,5 @@
 
 - Synchronization issue with cables changing colors from Create: power grid (waiting for new create: power grid release)
 - Recipes using create objects are not showing in the REI gui (was reported by another user to REI devs, a fix will be made by us with a special mod for it)
-- Oil is in duplicates (I will remove stellaris oil)
+- Oil is in duplicates (I will remove stellaris oil, first step completed)
 - The starter structure is not spawning

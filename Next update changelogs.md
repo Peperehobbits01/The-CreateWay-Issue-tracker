@@ -2,64 +2,77 @@
 
 # Added :
 
-- Create Goggles
-- Create Stuff 'N Additions
-- Create: Connected
-- Create: Vibrant Vaults
-- Immersive Paintings
-- Create: Old Infrastructure
-- Skart's Decorations
-- Sparkles 
-- SNR Hullsteel parity pack
+- Create: Addon Compatibility
+- Status Effects Bars Reforged
+- Farmer's Delight Cutting Compat
+- Supplementaries Compat
+- Merge enchantments
+- Difficulty Lock
+- Improved Mobs
+- The starter structure is now available in its first iteration, so try it out by creating a new world !
 
 # Updated :
 
-- Neoforge from 21.1.234 to 21.1.235
-- Create Aeronautics: Compatibility from 1.1.2 to 1.1.3
-- Amendments from 2.1.4 to 2.1.7
-- CarryOn from 2.2.4 to 2.2.5
-- Chat Animation from 1.2.0 to 1.3.1
-- Create: Framed from 1.7.3 to 1.8.2
-- ModernFix from 5.27.14 to 5.27.15
-- Omnidirectional Movement from 1.1 to 1.2
-- Pineapple Delight from 1.1.2 to 1.1.4
-- Stellaris from 1.4.23 to 1.4.25
-- Tectonic from 3.0.22 to 3.0.26
-- Reconnectible Chains from 2.2.3 to 2.2.5
-- Adorn from 6.1.4 to 6.3.0
-- Sinytra Connector from 2.0.0 beta 14 to 2.0.0 beta 15
-- FancyMenu from 3.9.6 to 3.9.8
-- Polytone from 3.7.1 to 3.9.1
-- Steam 'n' rails from 0.2.1 to 0.3.0-beta
-- Rese's Sodium Options from 2.2.0 to 2.2.3
-- Sodium Extra from 0.9.1 to 0.9.3
-- Sodium from 0.18.12-beta.2 to 0.18.12
-- Supplementaries from 3.6.8 to 3.8.2
-- Lootr from 1.11.37.121 to 1.11.37.122
-- Better Combat 2.3.2 to 2.4.0
-- Better Archeology 1.3.4 to 1.3.7
-- c2me from 0.4.0-alpha.113 to 0.4.0-alpha.115
-- JourneyMap from 6.0.0 to 6.0.1
+- ModernFix from 5.27.15 to 5.27.20
+- Polytone from 3.9.1 to 3.10.0
+- Recipe Essentials from 4.0 to 4.7
+- Supplementaries from 3.8.2 to 3.8.3
+- Chat Heads from 0.15.2 to 0.15.3
+- Traveler's Backpack from 10.1.36 to 10.1.37
+- c2me from 0.4.0-ALPHA.0.115 to 0.4.0-ALPHA.0.116
+- moonlight from 3.1.11 to 3.1.13
 
 # Downgraded :
 
 # Changes :
 
-- Removed newly added supplementaires config button from the main menu
-- Skart's decoration crafts now use create's copper nugget instead of the one coming from the mod
-- Reduced pillager caravans spawn rate cooldown in half
-- Replaced steel from stellaris and create the factory must grow by the one from create ironworks
-- Disabled steel ore from stellaris from generation (need to export oregenerationdisabler)
-- Removed stellaris surface lake.
-- Fixed copycat stairs being in duplicate.
+- Replaced REI with EMI witch fixes recipes using create objects are not showing (temporary fix before rejei made by another guy is capable to function on NeoForge)
+- Replaced Sitting+ by Take a seat! 
+- Replaced Tiny Terrors by More Babies
+- It is know required to eat 10 different healthy food to get two extra hearts
+- You now need to eat 140 different healthy food to get all the extra hearts
+- Difficulty is set and locked to hard mode
+- No longer show difficulty in the top left
+- Disabled rage icon
+- Tweaked anvil penalty in anvils to make them demand more experience
+- name tags need an anvil to be renamed
+- Oil is no longer in duplicate
+- No protection is applied to starter structure
+- Trees are no longer ignored when starter structure is being placed
+- Fixed edge case where you could be in the structure walls when spawning
+- Steel tool from stellaris mod are removed use the ones from ironworks instead
+- Fixed moon steel ore not being prevented from generating
+- Disabled guardian and flying to avoid having mods to powerful
+- Reduced difficulty increase by ten
+- RAM usage as been decreased of one to two GB depending on the situation.
+- Mimic's are no longer having the improved mobs feature enabled on them.
+- Fixed onion ring from artifact being counted in the list of food that can help having more hearts
+- Reduced chances of mobs having items in their hands
+- Reduced chances of mobs having one or more enchanted items/armor pieces
+- Hopefully fixed an issue where effect info would be hidden behind the minimap
+- Ropes are no longer in duplicate
+- Size of biome titles have augmented moving from 1.5 to 2.2
 
 # Removed :
 
-- Create Ore Excavation
+- Sinytra connector
+- Yung's Menu Tweaks
+- Stonehenge
+- Item Highlighter
+- Almanac
+- kiwi
+- TxniLib
+- Enchantment Level Cap Indicator
+- Create: New Age
+- Animal Feeding Trough
+- Visual Workbench
+- Miner's enchant
+- [Let's Do] Meadow
+- Create: The Factory Must Grow
+- Not Enough Crashes
 
 # Known Issues :
 
 - Synchronization issue with cables changing colors from Create: power grid (waiting for new create: power grid release)
-- Recipes using create objects are not showing in the REI gui (was reported by another user to REI devs, a fix will be made by us with a special mod for it)
-- Oil is in duplicates (First step completed)
-- The starter structure is not spawning
+- Cheat chest can no longer be enabled config causes a crash (reported to mod author, waiting for a fix to turn it back on again)
+- Ropes for Supplementaries still show up in the creative menu

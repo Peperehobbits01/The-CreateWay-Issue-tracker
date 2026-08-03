@@ -2,77 +2,55 @@
 
 # Added :
 
-- Create: Addon Compatibility
-- Status Effects Bars Reforged
-- Farmer's Delight Cutting Compat
-- Supplementaries Compat
-- Merge enchantments
-- Difficulty Lock
-- Improved Mobs
-- The starter structure is now available in its first iteration, so try it out by creating a new world !
+- Aileron
+- Create: Compatible Storage
+- Eating Animations More Mod Compatibility
+- Create: New Age
+- Skull Piercer (Critical Hit)
+- Create: Blocks & Bogies
+- Create: More Girder
 
 # Updated :
 
-- ModernFix from 5.27.15 to 5.27.20
-- Polytone from 3.9.1 to 3.10.0
-- Recipe Essentials from 4.0 to 4.7
-- Supplementaries from 3.8.2 to 3.8.3
-- Chat Heads from 0.15.2 to 0.15.3
-- Traveler's Backpack from 10.1.36 to 10.1.37
-- c2me from 0.4.0-ALPHA.0.115 to 0.4.0-ALPHA.0.116
-- moonlight from 3.1.11 to 3.1.13
+- Create: Mobile packages from 0.7.6 to 0.7.7
+- Polytone from 3.10.0 to 3.10.2
+- Rustic Delight from 1.6.1 to 1.7.1
+- Steam 'n' Rails from 0.3.0-beta to 0.3.0-beta.2
+- JourneyMap from 6.0.1 to 6.0.2
+- CarryOn from 2.2.5 to 2.2.6
+- Create: Dragons Plus from 1.11.2b to 1.11.3
+- Traveler's backpack from 10.1.37 to 10.1.38
+- Adorn from 6.3.0 to 6.3.1
+- Create: Jetpacks from 5.1.2 to 5.2.1
+- Forgified Fabric API from 0.116.14 to 0.116.15
+- MonoLib from 4.0.2 to 4.1.0
+- Balm from 21.0.63 to 21.0.64
+- FancyMenu from 3.9.8 to 3.9.9
+- Create Slice & Dice from 4.2.4 to 4.3.3
+- Create: Enchantment Industry from 2.5.0-preview-alpha1 to 2.5.0 (beta)
+- Drippy Loading Screen from 3.1.2 to 3.1.5
 
 # Downgraded :
 
 # Changes :
 
-- Replaced REI with EMI witch fixes recipes using create objects are not showing (temporary fix before rejei made by another guy is capable to function on NeoForge)
-- Replaced Sitting+ by Take a seat! 
-- Replaced Tiny Terrors by More Babies
-- It is know required to eat 10 different healthy food to get two extra hearts
-- You now need to eat 140 different healthy food to get all the extra hearts
-- Difficulty is set and locked to hard mode
-- No longer show difficulty in the top left
-- Disabled rage icon
-- Tweaked anvil penalty in anvils to make them demand more experience
-- name tags need an anvil to be renamed
-- Oil is no longer in duplicate
-- No protection is applied to starter structure
-- Trees are no longer ignored when starter structure is being placed
-- Fixed edge case where you could be in the structure walls when spawning
-- Steel tool from stellaris mod are removed use the ones from ironworks instead
-- Fixed moon steel ore not being prevented from generating
-- Disabled guardian and flying to avoid having mods to powerful
-- Reduced difficulty increase by ten
-- RAM usage as been decreased of one to two GB depending on the situation.
-- Mimic's are no longer having the improved mobs feature enabled on them.
-- Fixed onion ring from artifact being counted in the list of food that can help having more hearts
-- Reduced chances of mobs having items in their hands
-- Reduced chances of mobs having one or more enchanted items/armor pieces
-- Hopefully fixed an issue where effect info would be hidden behind the minimap
-- Ropes are no longer in duplicate
-- Size of biome titles have augmented moving from 1.5 to 2.2
+- End cities are slight rarer now, compared to previous versions of the modpack
+- Disabled camera tilting when on elytra as it causes issues with Do A Barrel Roll
+- Reduced boost cooldown on Soul Elytra to 8s instead of 30s
+- Moved Armor toughness above normal armor points
+- Augmented chances of pillager caravans spawning
+- Cooking Oil can no longer assist in adding hearts
+- Slightly increased the incremental difficulty so the game gets harder 4 times faster compare to build 29 
+- Fixed PH ads not showing in starter structure by creating a datapack that imports the image in every world
+- Replaced Create Power Grid by Create: Electro Energetics
+- Changed back to REI instead of EMI, create recipes now show properly !
 
 # Removed :
 
-- Sinytra connector
-- Yung's Menu Tweaks
-- Stonehenge
-- Item Highlighter
-- Almanac
-- kiwi
-- TxniLib
-- Enchantment Level Cap Indicator
-- Create: New Age
-- Animal Feeding Trough
-- Visual Workbench
-- Miner's enchant
-- [Let's Do] Meadow
-- Create: The Factory Must Grow
-- Not Enough Crashes
+- Carry On + Aero Compat is now in the base mod
+- Supplementaries
+- Supplementaries compat
+- Create: Components and Additions
+- Almost Unified
 
 # Known Issues :
-
-- Synchronization issue with cables changing colors from Create: power grid (waiting for new create: power grid release)
-- Cheat chest can no longer be enabled config causes a crash (reported to mod author, waiting for a fix to turn it back on again)
-- Ropes for Supplementaries still show up in the creative menu

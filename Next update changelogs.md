@@ -2,31 +2,43 @@
 
 # Added :
 
-- Create Stellaris
+- Create Aeronautics: Transmission and Linkage
+- Create: Tracks
+- Drive-By-Wire with Sable
+- Create Nuclear
 
 # Updated :
 
-- Chunk Sending from 3.7 to 3.9
-- FancyMenu from 3.9.10 to 3.9.12
-- Polytone from 4.0.1 to 4.0.2
-- ImmediatelyFast from 1.6.12 to 1.6.13
-- c2me from 0.4.0-alpha.0.117 to 0.4.0-alpha.0.120
-- Moonlight from 3.5.0 to 3.5.2
-- Cupboard from 4.0 to 4.1
-- KubeJS from 2101.7.2-build.368 to 2101.7.2-build.374
+- Create: Under Pressure from 0.2.3 to 0.3.0
+- Journey Map from 6.0.5 to 6.0.7
+- Polytone from 4.0.2 to 4.1.0
+- Create: Aeronautics from 1.3.1 to 1.3.2
+- Create: Enchantment Industry from 2.5.3 to 2.5.3b
+- Farmer's Delight from 1.3.3 to 1.3.4
+- Rebind Narrator from 2025.12.23 to 2026.08.31
+- ModernFix from 5.27.20 to 5.27.24
+- Traveler's backpack from 10.1.38 to 10.1.39
+- Sodium from 0.8.12 to 0.8.13
+- Create: Connected from 1.3.2 to 1.3.3
+- Jade Addons from 6.1.0 to 6.1.1
+- Puzzle Lib from 21.1.52 to 21.1.56
+- LambDynamicsLight from 4.8.10 to 4.8.11
+- Artifacts from 13.2.3 to 13.2.5
+- Azimuth API from 1.4.7 to 1.4.8
+- Create: Bits 'n' Bobs from 2.2.7 to 2.2.9
+- Reconnectible chains from 2.3.2 to 2.3.3
+- Entity Model Features from 3.2.4 to 3.3.5
+- Entity Texture Features from 7.1 to 7.2.1
+- Create: Dragons Plus from 1.11.8
 
 # Downgraded :
 
 # Changes :
 
-- Removed the texture from behind the player's model in the main menu
-- Catenary no longer shows on blocks that can be linked with fences
-- Preconfigured emote wheel to have emoting already set up
-- Increased the rarity of artifacts by two
-- Digging claws now augment tier to diamond instead of stone
-- Removed some no longer used config files of some removed mods from import
-
 # Removed :
+
+- Create Jetpack
+- Create: New Age
 
 # Known Issues :
 

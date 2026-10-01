@@ -2,29 +2,30 @@
 
 # Added :
 
-- More Overlays
-- Inventory Profiles Next
-- TrashSlot
-
 # Updated :
 
-- NeoForge from 21.1.251 to 21.1.252
-- Connectible Chains from 2.4.2 to 2.4.3
-- Moonlight from 3.6.9 to 3.7.0
-- Polytone from 4.5.2 to 4.5.3
-- TenshiLib from 2.3.0b to 2.3.1
+- Connectible Chains from 2.4.3 to 2.4.4
+- Connectivity from 7.6 to 7.7
+- CreativeCore from 2.13.49 to 2.13.50
+- FancyMenu from 3.9.12 to 3.9.14
+- NoChatRestrictions from 1.0.2 to 1.0.3
+- Nyf's Spiders from 3.0.1 to 3.0.2
+- PuzzleLib from 21.1.60 to 21.1.62
+- Fragmentum from 5.0.0 to 5.1.1
 
 # Downgraded :
 
 # Changes :
 
-- Tweaked some stuff in Inventory Profiles Next to better fit the modpack
-- Fixed cart can sometimes not have a hitbox
-- Replaced Death Keeper by Corpse so your grave no longer despawns
-- Fixed carts from Create Coasters not being dragged by chains
-- Fixed brass armor and copper armor being in duplicate
+- Fixed frog port has Inventory Profiles Next buttons
+- Fixed Inventory Profiles Next swap tool showing messages for canteens and other stuff
+- Fixed steel ingots are in duplicate
+- Fixed copper and brass tools are in duplicate
 
 # Removed :
+
+- Durability Guard
+- Create: Stellaris
 
 # Known Issues :
 

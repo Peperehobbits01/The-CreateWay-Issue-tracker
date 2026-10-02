@@ -4,28 +4,26 @@
 
 # Updated :
 
-- Connectible Chains from 2.4.3 to 2.4.4
-- Connectivity from 7.6 to 7.7
-- CreativeCore from 2.13.49 to 2.13.50
-- FancyMenu from 3.9.12 to 3.9.14
-- NoChatRestrictions from 1.0.2 to 1.0.3
-- Nyf's Spiders from 3.0.1 to 3.0.2
-- PuzzleLib from 21.1.60 to 21.1.62
-- Fragmentum from 5.0.0 to 5.1.1
+- AmbientSounds from 6.3.8 to 6.3.9
+- Collective from 8.40 to 8.41
+- Double Doors from 7.2 to 7.3
+- Villager Names from 8.5 to 8.7
 
 # Downgraded :
 
 # Changes :
 
-- Fixed frog port has Inventory Profiles Next buttons
-- Fixed Inventory Profiles Next swap tool showing messages for canteens and other stuff
-- Fixed steel ingots are in duplicate
-- Fixed copper and brass tools are in duplicate
+- Fixed Coal and charcoal being crushed making Create Nuclears Coal Dust
 
 # Removed :
 
-- Durability Guard
-- Create: Stellaris
+- CupBoard
+- ChunkSending
+- Connectivity
+- Fast Async World Save
+- fix GPU memory leak
+- Recipe Essentials
+- Server Performence - Smooth Chunk Save
 
 # Known Issues :
 
